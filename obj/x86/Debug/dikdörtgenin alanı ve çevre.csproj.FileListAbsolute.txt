@@ -1,0 +1,8 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\dikdörtgenin alanı ve çevre\dikdörtgenin alanı ve çevre\obj\x86\Debug\dikdörtgenin_alanı_ve_çevre.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\dikdörtgenin alanı ve çevre\dikdörtgenin alanı ve çevre\obj\x86\Debug\dikdörtgenin_alanı_ve_çevre.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\dikdörtgenin alanı ve çevre\dikdörtgenin alanı ve çevre\obj\x86\Debug\dikdörtgenin alanı ve çevre.csproj.GenerateResource.Cache
+c:\users\acer-v3\documents\visual studio 2010\Projects\dikdörtgenin alanı ve çevre\dikdörtgenin alanı ve çevre\bin\Debug\dikdörtgenin alanı ve çevre.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\dikdörtgenin alanı ve çevre\dikdörtgenin alanı ve çevre\bin\Debug\dikdörtgenin alanı ve çevre.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\dikdörtgenin alanı ve çevre\dikdörtgenin alanı ve çevre\obj\x86\Debug\dikdörtgenin alanı ve çevre.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\dikdörtgenin alanı ve çevre\dikdörtgenin alanı ve çevre\obj\x86\Debug\dikdörtgenin alanı ve çevre.pdb
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\dikdörtgenin alanı ve çevre\dikdörtgenin alanı ve çevre\obj\x86\Debug\dikdörtgenin alanı ve çevre.csprojResolveAssemblyReference.cache
